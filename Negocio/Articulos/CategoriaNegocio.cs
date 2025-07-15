@@ -16,7 +16,7 @@ namespace Negocio.Articulos
 
             try
             {
-                datos.setearConsulta(""); //------------Agregar Consulta
+                datos.setearConsulta("select Id, Descripcion from Categoria");
                 datos.ejecutarLectura();
 
                 while (datos.Lector.Read())

@@ -20,7 +20,7 @@ namespace Negocio
 
         public AccesoDatos()
         {
-            conexion = new SqlConnection("Data Source = DESKTOP - M3P2928\\SQLEXPRESS; Initial Catalog = CYGEstetica_DB; Integrated Security = True");
+            conexion = new SqlConnection("Data Source = DESKTOP - M3P2928\\SQLEXPRESS; Initial Catalog = CYGEstetica2_DB; Integrated Security = True");
             comando = new SqlCommand();
         }
 

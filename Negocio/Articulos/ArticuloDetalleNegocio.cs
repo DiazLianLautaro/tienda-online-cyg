@@ -15,7 +15,7 @@ namespace Negocio.Articulos
             AccesoDatos datos = new AccesoDatos();
             try
             {
-                datos.setearConsulta("");  //------------------------
+                datos.setearConsulta("select Id, ProductoId, FechaIngreso, PrecioCompra, CantidadCompra, PrecioVenta from DetalleProducto");
                 datos.ejecutarLectura();
 
                 while (datos.Lector.Read())
@@ -24,8 +24,8 @@ namespace Negocio.Articulos
                     articuloDetalle.IdDetalleProducto = (int)datos.Lector["Id"];
                     articuloDetalle.IdProducto = (int)datos.Lector["ProductoId"];
                     articuloDetalle.FechaIngreso = (DateOnly)datos.Lector["FechaIngreso"];
-                    articuloDetalle.CantidadCompra = (int)datos.Lector["CantidadCompra"];
                     articuloDetalle.PrecioCompra = (float)datos.Lector["PrecioCompra"];
+                    articuloDetalle.CantidadCompra = (int)datos.Lector["CantidadCompra"];
                     articuloDetalle.PrecioVenta = (float)datos.Lector["PrecioVenta"];
 
                     lista.Add(articuloDetalle);
@@ -39,11 +39,5 @@ namespace Negocio.Articulos
                 throw ex;
             }
         }
-        //public int IdDetalleProducto { get; set; }
-        //public int IdProducto { get; set; }
-        //public DateOnly FechaIngreso { get; set; }
-        //public int CantidadCompra { get; set; }
-        //public float PrecioCompra { get; set; }
-        //public float PrecioVenta { get; set; }
     }
 }
