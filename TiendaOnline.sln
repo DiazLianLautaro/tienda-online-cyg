@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm", "WebForm\WebForm.csproj", "{38B53D5C-9AC6-4D3F-91A4-7F52F128B230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{64F08E40-E3AD-449B-B3E8-88A1615E8D20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B53D5C-9AC6-4D3F-91A4-7F52F128B230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B53D5C-9AC6-4D3F-91A4-7F52F128B230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B53D5C-9AC6-4D3F-91A4-7F52F128B230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B53D5C-9AC6-4D3F-91A4-7F52F128B230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F08E40-E3AD-449B-B3E8-88A1615E8D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F08E40-E3AD-449B-B3E8-88A1615E8D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F08E40-E3AD-449B-B3E8-88A1615E8D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F08E40-E3AD-449B-B3E8-88A1615E8D20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

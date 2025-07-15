@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\articulos\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulos\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\articulos\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulos\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\articulodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\detallepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\detallepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\ordennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\ordennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\detallepagonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\detallepagonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\carritonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\carritonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\articulos\\articulodetallenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulos\\articulodetallenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\articulos\\articulofavoritonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulos\\articulofavoritonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\articulos\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulos\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\ventanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\ventanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\servicios\\servicionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\servicios\\servicionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\negocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negocio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\servicios\\turnonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\servicios\\turnonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53D5C-9AC6-4D3F-91A4-7F52F128B230}|WebForm\\WebForm.csproj|C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\webform\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{38B53D5C-9AC6-4D3F-91A4-7F52F128B230}|WebForm\\WebForm.csproj|solutionrelative:webform\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B53D5C-9AC6-4D3F-91A4-7F52F128B230}|WebForm\\WebForm.csproj|C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\webform\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{38B53D5C-9AC6-4D3F-91A4-7F52F128B230}|WebForm\\WebForm.csproj|solutionrelative:webform\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetallePagoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\DetallePagoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\DetallePagoNegocio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\DetallePagoNegocio.cs",
+              "RelativeToolTip": "Negocio\\DetallePagoNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:22:04.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Carrito.cs",
+              "RelativeDocumentMoniker": "Dominio\\Carrito.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Carrito.cs",
+              "RelativeToolTip": "Dominio\\Carrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:21:42.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VentaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\VentaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\VentaNegocio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\VentaNegocio.cs",
+              "RelativeToolTip": "Negocio\\VentaNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:21:11.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\UsuarioNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\UsuarioNegocio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\UsuarioNegocio.cs",
+              "RelativeToolTip": "Negocio\\UsuarioNegocio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:21:00.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TurnoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Servicios\\TurnoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Servicios\\TurnoNegocio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Servicios\\TurnoNegocio.cs",
+              "RelativeToolTip": "Negocio\\Servicios\\TurnoNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:20:49.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServicioNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Servicios\\ServicioNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Servicios\\ServicioNegocio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Servicios\\ServicioNegocio.cs",
+              "RelativeToolTip": "Negocio\\Servicios\\ServicioNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:20:36.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrdenNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\OrdenNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\OrdenNegocio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\OrdenNegocio.cs",
+              "RelativeToolTip": "Negocio\\OrdenNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:20:03.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarritoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\CarritoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\CarritoNegocio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\CarritoNegocio.cs",
+              "RelativeToolTip": "Negocio\\CarritoNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:19:30.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArticuloDetalleNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Articulos\\ArticuloDetalleNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Articulos\\ArticuloDetalleNegocio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Articulos\\ArticuloDetalleNegocio.cs",
+              "RelativeToolTip": "Negocio\\Articulos\\ArticuloDetalleNegocio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:18:52.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ArticuloFavoritoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Articulos\\ArticuloFavoritoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Articulos\\ArticuloFavoritoNegocio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Articulos\\ArticuloFavoritoNegocio.cs",
+              "RelativeToolTip": "Negocio\\Articulos\\ArticuloFavoritoNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:17:31.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Articulos\\ArticuloNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Articulos\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Articulos\\ArticuloNegocio.cs",
+              "RelativeToolTip": "Negocio\\Articulos\\ArticuloNegocio.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T20:17:09.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MarcaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Articulos\\MarcaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Articulos\\MarcaNegocio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Articulos\\MarcaNegocio.cs",
+              "RelativeToolTip": "Negocio\\Articulos\\MarcaNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:46:01.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Articulos\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Articulos\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Articulos\\CategoriaNegocio.cs",
+              "RelativeToolTip": "Negocio\\Articulos\\CategoriaNegocio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T19:30:44.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "Negocio\\AccesoDatos.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:48:11.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Negocio.csproj",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Negocio.csproj",
+              "RelativeDocumentMoniker": "Negocio\\Negocio.csproj",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Negocio.csproj",
+              "RelativeToolTip": "Negocio\\Negocio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T20:47:44.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArticuloDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\ArticuloDetalle.cs",
+              "RelativeDocumentMoniker": "Dominio\\ArticuloDetalle.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\ArticuloDetalle.cs",
+              "RelativeToolTip": "Dominio\\ArticuloDetalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:08:43.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetallePago.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\DetallePago.cs",
+              "RelativeDocumentMoniker": "Dominio\\DetallePago.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\DetallePago.cs",
+              "RelativeToolTip": "Dominio\\DetallePago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:06:26.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Venta.cs",
+              "RelativeDocumentMoniker": "Dominio\\Venta.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Venta.cs",
+              "RelativeToolTip": "Dominio\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:04:18.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Articulo.cs",
+              "RelativeToolTip": "Dominio\\Articulo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:55:35.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Servicio.cs",
+              "RelativeDocumentMoniker": "Dominio\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Servicio.cs",
+              "RelativeToolTip": "Dominio\\Servicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:08:02.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Turno.cs",
+              "RelativeDocumentMoniker": "Dominio\\Turno.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Turno.cs",
+              "RelativeToolTip": "Dominio\\Turno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:03:46.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Orden.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Orden.cs",
+              "RelativeDocumentMoniker": "Dominio\\Orden.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Orden.cs",
+              "RelativeToolTip": "Dominio\\Orden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T00:01:29.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Categoria.cs",
+              "RelativeDocumentMoniker": "Dominio\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Categoria.cs",
+              "RelativeToolTip": "Dominio\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:06:58.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "Dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Marca.cs",
+              "RelativeToolTip": "Dominio\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:06:50.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Usuario.cs",
+              "RelativeDocumentMoniker": "Dominio\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Usuario.cs",
+              "RelativeToolTip": "Dominio\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T19:02:16.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\WebForm\\Default.aspx",
+              "RelativeDocumentMoniker": "WebForm\\Default.aspx",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\WebForm\\Default.aspx",
+              "RelativeToolTip": "WebForm\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T21:41:54.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\WebForm\\MasterPage.Master",
+              "RelativeDocumentMoniker": "WebForm\\MasterPage.Master",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\WebForm\\MasterPage.Master",
+              "RelativeToolTip": "WebForm\\MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-06T20:46:13.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
