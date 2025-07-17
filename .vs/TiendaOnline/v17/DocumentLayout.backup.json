@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\articulodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\detallepagonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\detallepagonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\pagos\\empresapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\pagos\\empresapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\articulos\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulos\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\pagos\\detallepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\pagos\\detallepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\pagos\\metodopago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +27,20 @@
       "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\pagos\\metodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\pagos\\empresapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\pagos\\empresapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\pagos\\detallepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\pagos\\detallepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\articulos\\articulodetallenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulos\\articulodetallenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\negocio\\articulos\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C4F566E-4EB5-4465-AE38-96AA0DFC9B63}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulos\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\articulodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|c:\\users\\lauty\\documents\\proyectotiendaonline\\tiendaonline\\dominio\\dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{64F08E40-E3AD-449B-B3E8-88A1615E8D20}|Dominio\\Dominio.csproj|solutionrelative:dominio\\dominio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,6 +55,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DetallePagoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\DetallePagoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\DetallePagoNegocio.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\DetallePagoNegocio.cs",
+              "RelativeToolTip": "Negocio\\DetallePagoNegocio.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T20:22:36.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Carrito.cs",
+              "RelativeDocumentMoniker": "Dominio\\Carrito.cs",
+              "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Carrito.cs",
+              "RelativeToolTip": "Dominio\\Carrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T20:07:02.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ArticuloDetalle.cs",
               "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\ArticuloDetalle.cs",
               "RelativeDocumentMoniker": "Dominio\\ArticuloDetalle.cs",
@@ -59,20 +97,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dominio",
+              "DocumentIndex": 9,
+              "Title": "Dominio.csproj",
               "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Dominio.csproj",
               "RelativeDocumentMoniker": "Dominio\\Dominio.csproj",
               "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Dominio.csproj",
               "RelativeToolTip": "Dominio\\Dominio.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-15T19:36:11.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-15T19:36:11.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Metodo.cs",
               "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Pagos\\Metodo.cs",
               "RelativeDocumentMoniker": "Dominio\\Pagos\\Metodo.cs",
@@ -85,39 +122,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EmpresaPago.cs",
               "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Pagos\\EmpresaPago.cs",
               "RelativeDocumentMoniker": "Dominio\\Pagos\\EmpresaPago.cs",
               "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Pagos\\EmpresaPago.cs",
               "RelativeToolTip": "Dominio\\Pagos\\EmpresaPago.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T19:40:04.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MetodoPago.cs",
               "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Pagos\\MetodoPago.cs",
               "RelativeDocumentMoniker": "Dominio\\Pagos\\MetodoPago.cs",
               "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Pagos\\MetodoPago.cs",
               "RelativeToolTip": "Dominio\\Pagos\\MetodoPago.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T19:36:27.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "DetallePago.cs",
               "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Pagos\\DetallePago.cs",
               "RelativeDocumentMoniker": "Dominio\\Pagos\\DetallePago.cs",
               "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Dominio\\Pagos\\DetallePago.cs",
               "RelativeToolTip": "Dominio\\Pagos\\DetallePago.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T19:19:10.002Z",
               "EditorCaption": ""
@@ -130,24 +167,20 @@
               "RelativeDocumentMoniker": "Negocio\\Articulos\\ArticuloDetalleNegocio.cs",
               "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Articulos\\ArticuloDetalleNegocio.cs",
               "RelativeToolTip": "Negocio\\Articulos\\ArticuloDetalleNegocio.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T19:12:35.736Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ArticuloNegocio.cs",
               "DocumentMoniker": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Articulos\\ArticuloNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\Articulos\\ArticuloNegocio.cs",
               "ToolTip": "C:\\Users\\Lauty\\Documents\\ProyectoTiendaOnline\\TiendaOnline\\Negocio\\Articulos\\ArticuloNegocio.cs",
               "RelativeToolTip": "Negocio\\Articulos\\ArticuloNegocio.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-15T19:01:15.938Z",
               "EditorCaption": ""

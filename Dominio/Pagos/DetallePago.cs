@@ -9,8 +9,8 @@ namespace Dominio.Pagos
     public class DetallePago
     {
         public int IdDetallePago { get; set; }
-        public MetodoPago IdMetodoPago { get; set; }
+        public MetodoPago MetodoPagoId { get; set; }
         public bool Anticipado { get; set; }
-        public string? EstadoPago { get; set; }
+        public bool EstadoPago { get; set; }
     }
 }
